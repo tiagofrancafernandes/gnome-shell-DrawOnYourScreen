@@ -20,7 +20,7 @@ msgstr ""
 "%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
 "Language: ru_RU\n"
 
-msgid "Translators"
+msgid "translator-credits"
 msgstr "<a href=\"mailto:sazonow1980.@gmail.com\">Andrew Sazonow</a>"
 
 #: extension.js
